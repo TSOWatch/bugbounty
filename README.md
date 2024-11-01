@@ -1,2 +1,4 @@
 # bugbounty
-bugbounty for Ai
+bugbounty for Ai 
+
+soon
